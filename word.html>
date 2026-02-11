@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fichiers confidentiels Word</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header></header>
+        <h1>Fichiers confidentiels Word</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="word.html">Fichiers word</a></li>
+                <li><a href="excel.html">Fichiers excel</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="files">
+        <div>
+            <h2>Projet 001</h2>
+            <p>Ce document contient des informations sensibles sur le projet X.</p>
+            <a href="c:\Users\GISCARD\Documents\ACTIVITY ON WINDOWS.docx" class="btn">Télécharger</a>
+        </div>
+        <div>
+            <h2>Projet 002</h2>
+            <p>Ce document contient des informations sensibles sur le projet Y.</p>
+            <a href="c:\Users\GISCARD\Documents\202520397.docx" class="btn">Télécharger</a>
+        </div>
+            <div>
+                <h2>Projet 003</h2>
+                <p>Ce document contient des informations sensibles sur le projet Z.</p>
+                <a href="c:\Users\GISCARD\Documents\202520363.docx" class="btn">Télécharger</a>
+            </div>
+            <div>
+                <h2>Projet 004</h2>
+                <p>Ce document contient des informations sensibles sur le projet W.</p>
+                <a href="c:\Users\GISCARD\Documents\NUMERIC SYSTEM.docx" class="btn">Télécharger</a>
+            </div>
+            <div>
+                <h2>Projet 005</h2>
+                <p>Ce document contient des informations sensibles sur le projet V.</p>
+                <a href="c:\Users\GISCARD\Documents\202520365.docx" class="btn">Télécharger</a>
+
+            </div>
+            <div>
+                <h2>Projet 006</h2>
+                <p>Ce document contient des informations sensibles sur le projet U.</p>
+                <a href="c:\Users\GISCARD\Documents\gisss.docx" class="btn">Télécharger</a>
+            </div>
+            <div>
+                <h2>Projet 007</h2>
+                <p>Ce document contient des informations sensibles sur le projet T.</p>
+                <a href="c:\Users\GISCARD\Documents\ICT ASSIGNMENT\DIRECTORY.docx" class="btn">Télécharger</a>
+            </div>
+            <div>
+                <h2>Projet 008</h2>
+                <p>Ce document contient des informations sensibles sur le projet S.</p>
+                <a href="c:\Users\GISCARD\Documents\ICT ASSIGNMENT\MONTHLY BUDGET.docx" class="btn">Télécharger</a>
+            </div>
+            <div>
+                <h2>Projet 009</h2>
+                <p>Ce document contient des informations sensibles sur le projet R.</p>
+                <a href="c:\Users\GISCARD\Documents\ICT ASSIGNMENT\system2 & produce a printout..docx" class="btn">Télécharger</a>
+            </div>
+            <div>
+                <h2>Projet 010</h2>
+                <p>Ce document contient des informations sensibles sur le projet Q.</p>
+                <a href="c:\Users\GISCARD\Documents\ICT ASSIGNMENT\TIME TABLE.docx" class="btn">Télécharger</a>
+            </div>
+
+    </section>
+    
+</body>
+</html>
